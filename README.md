@@ -12,6 +12,10 @@ You can download the app here on [play store](https://play.google.com/store/apps
   <img src="https://user-images.githubusercontent.com/74717916/116130567-c3366700-a6a1-11eb-8613-8730c6525566.jpg" width="250px" height="auto" />
 </p>
 
+## Requirement
+This is only the app code, you will need to consume an api. <br>
+You can get the api code here on this [repository](https://github.com/Douglas-42/nano-now-api) and run on your machine
+
 ## How to install and start
 1. git clone https://github.com/Douglas-42/nano-now.git <br>
 2. cd nano-now <br>
