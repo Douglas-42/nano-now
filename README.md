@@ -4,7 +4,7 @@
 
 # Nano Now App
 Nano is an app that give users free Nano.
-You can download the app here [I'm an inline-style link](https://play.google.com/store/apps/details?id=com.nanonow.freenano)
+You can download the app here on [play store](https://play.google.com/store/apps/details?id=com.nanonow.freenano)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74717916/116130477-a9951f80-a6a1-11eb-957c-1b1fab40f73e.jpg" width="250px" height="auto" />
