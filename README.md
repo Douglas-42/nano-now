@@ -13,7 +13,7 @@ You can download the app here [I'm an inline-style link](https://play.google.com
 </p>
 
 ## How to install and start
-Markup : 1. git clone https://github.com/Douglas-42/nano-now.git
-         2. cd nano-now
-         3. npm install
-         4. expo start
+1. git clone https://github.com/Douglas-42/nano-now.git <br>
+2. cd nano-now <br>
+3. npm install <br>
+4. expo start <br>
